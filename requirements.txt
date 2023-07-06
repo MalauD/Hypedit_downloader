@@ -1,0 +1,5 @@
+requests
+BeautifulSoup
+argparse
+eyed3
+pydub
