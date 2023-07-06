@@ -3,3 +3,4 @@ BeautifulSoup
 argparse
 eyed3
 pydub
+urllib
